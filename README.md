@@ -1,3 +1,1 @@
-# template
-
-Template repository for the Biscuit Tin organization on GitHub.
+# Biscuit Tin organization
